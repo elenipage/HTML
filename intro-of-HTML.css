@@ -63,15 +63,15 @@ h2 {padding: 20px;}
   }
 .grid-item-pic {
         grid-area: pic;
-        display: flex;               /* Enable Flexbox */
-        justify-content: center;     /* Center horizontally */
-        align-items: center;         /* Center vertically */
+        display: flex;               
+        justify-content: center;     
+        align-items: center;        
     }
 .grid-item-side {
         grid-area: side;
-        display: flex;               /* Enable Flexbox */
-        justify-content: center;     /* Center horizontally */
-        align-items: center;         /* Center vertically */
+        display: flex;               
+        justify-content: center;     
+        align-items: center;         
     }
 .grid-item-2 { 
     grid-area: article; 
